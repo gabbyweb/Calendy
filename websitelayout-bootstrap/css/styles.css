@@ -1,0 +1,32 @@
+.nav {
+	background-color: orange;
+	height: 50px;
+}
+
+.main-content {
+	background-color: purple;
+	height: 250px;
+}
+
+/*.additional {
+	background-color: orange;
+	height: 20px;
+}*/
+
+.cards {
+	display: flex;
+	justify-content: space-between;
+}
+	
+
+.cards div {
+	background-color: blue;
+	height: 150px;
+	width: 400px;
+	margin: 20px 20px;
+}
+
+.footer {
+	background-color: orange;
+	height: 80px;
+}

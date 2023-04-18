@@ -1,0 +1,33 @@
+.card-deck {
+	background-color: skyblue;
+}
+
+.footer {
+	background-color: orange;
+	height: 150px;
+}
+
+element.style {
+    position: relative;
+    width: 100%;
+    padding-right: 50px;
+    padding-left: 15px;
+}
+
+
+/*.nav {
+	/*background-color: orange;
+	height: 50px;
+}
+
+.main-content {
+	background-color: purple;
+	height: 250px;
+
+}
+element.style {
+	position: relative;
+    width: 100%;
+    padding-right: 1px;
+    padding-left: 1px;
+}*/
